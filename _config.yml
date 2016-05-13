@@ -1,14 +1,26 @@
-layout_spectrum: 0.969534
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.03942652
 color:
-  saturation: 0.6635509
-  lightness: 0.7703847
-  brandStrength: 0.7688172
+  saturation: 0.718638
+  brandStrength: 0.2007169
+  lightness: 0.890681
   brandColors:
     - '#FFFFFF'
     - '#0E0C0D'
     - '#493D2D'
     - '#618CD3'
     - '#9BC4FA'
-  rhythmicContrast: 0.3272249
+  rhythmicContrast: 0.1577061
+layout_spectrum: 0.9229391
 name: Krspics
