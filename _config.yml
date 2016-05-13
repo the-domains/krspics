@@ -1,0 +1,14 @@
+layout_spectrum: 0.969534
+typography_spectrum: 0.03942652
+color:
+  saturation: 0.6635509
+  lightness: 0.7703847
+  brandStrength: 0.7688172
+  brandColors:
+    - '#FFFFFF'
+    - '#0E0C0D'
+    - '#493D2D'
+    - '#618CD3'
+    - '#9BC4FA'
+  rhythmicContrast: 0.3272249
+name: Krspics
