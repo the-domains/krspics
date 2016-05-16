@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 1
-  brandStrength: 0.2007169
-  lightness: 1
+  saturation: 0.12571178004145622
+  brandStrength: 0.5211479549761862
+  lightness: 0.2838700953871012
   brandColors:
-    - '#DFE6F0'
-    - '#171717'
-    - '#8CB1DD'
-    - '#91895B'
-    - '#334B55'
-  rhythmicContrast: 0.02508961
-typography_spectrum: 0.03942652
-layout_spectrum: 1
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  rhythmicContrast: 0.4834344268310815
+typography_spectrum: 0.9023511470295489
+layout_spectrum: 0.957180111669004
 name: Krspics
