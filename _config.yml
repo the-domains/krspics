@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.9023511470295489
 color:
-  saturation: 0.12571178004145622
-  brandStrength: 0.5211479549761862
+  saturation: 0.1257117800414562
+  brandStrength: 0.8243728
   lightness: 0.2838700953871012
   brandColors:
-    - '#73603D'
-    - '#BF8A49'
-    - '#F2CA80'
-    - '#5E5A59'
     - '#0D0D0D'
+    - '#FFFFFF'
+    - '#665D4C'
+    - '#D3CCB8'
+    - '#8D9B9E'
   rhythmicContrast: 0.4834344268310815
-typography_spectrum: 0.9023511470295489
-layout_spectrum: 0.957180111669004
+layout_spectrum: 0.6756272
 name: Krspics
