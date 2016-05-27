@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.9023511470295489
 color:
-  saturation: 0.1257117800414562
+  saturation: 0.9014337
   brandStrength: 0.07706093
-  lightness: 0.2838700953871012
+  lightness: 1
   brandColors:
     - '#0D0D0D'
     - '#FFFFFF'
     - '#665D4C'
     - '#D3CCB8'
     - '#8D9B9E'
-  rhythmicContrast: 0.4834344268310815
+  rhythmicContrast: 0.6362007
+typography_spectrum: 0.9023511470295489
 layout_spectrum: 0.6756272
 name: Krspics
