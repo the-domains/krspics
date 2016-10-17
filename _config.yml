@@ -1,3 +1,18 @@
+typography_spectrum: 0.9023511470295489
+color:
+  saturation: 0.9014337
+  brandStrength: 0.07706093
+  lightness: 1
+  brandColors:
+    - '#0D0D0D'
+    - '#FFFFFF'
+    - '#665D4C'
+    - '#D3CCB8'
+    - '#8D9B9E'
+  rhythmicContrast: 0.6362007
+github: true
+layout_spectrum: 0.6756272
+name: Music
 collections:
   - index:
       path: /
@@ -10,17 +25,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.9014337
-  brandStrength: 0.07706093
-  lightness: 1
-  brandColors:
-    - '#0D0D0D'
-    - '#FFFFFF'
-    - '#665D4C'
-    - '#D3CCB8'
-    - '#8D9B9E'
-  rhythmicContrast: 0.6362007
-typography_spectrum: 0.9023511470295489
-layout_spectrum: 0.6756272
-name: Krspics
+title: Music
+content: []
+description: 'Enjoy the same music as I do.... '
