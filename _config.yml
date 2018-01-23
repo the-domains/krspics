@@ -12,7 +12,7 @@ color:
   rhythmicContrast: 0.6362007
 github: true
 layout_spectrum: 0.6756272
-name: Music
+name: Think-Like.me | Music
 collections:
   - index:
       path: /
@@ -28,8 +28,10 @@ collections:
 title: Music
 content: []
 description: 'Enjoy the same music as I do.... '
-url: 'https://music.think-like.me'
+url: 'https://music.think-like.me/'
 author:
   name: Kristoffer Svarre
   email: ksvarre@gmail.com
   url: 'https://linkedin.com/in/ksvarre'
+analytics:
+  google: UA-79126334-1
