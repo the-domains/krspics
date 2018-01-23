@@ -28,3 +28,8 @@ collections:
 title: Music
 content: []
 description: 'Enjoy the same music as I do.... '
+url: 'https://music.think-like.me'
+author:
+  name: Kristoffer Svarre
+  email: ksvarre@gmail.com
+  url: 'https://linkedin.com/in/ksvarre'
